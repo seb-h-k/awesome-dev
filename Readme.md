@@ -6,7 +6,7 @@ To stay up to date as a developer and don´t get lost in information overload, y
 
 [InfoQ](https://www.infoq.com)
 
-InfoQ is a global news publisher with a strong emphasis on cutting edge issues and high quality content. All the content is written, edited and selected by practitioners and engineers from around the globe. The site is driven by C4Media, the companty that also runs the QCon conferences.
+InfoQ is a global news publisher with a strong emphasis on cutting edge issues and high quality content. All the content is written, edited and selected by practitioners and engineers from around the globe. The site is driven by C4Media, the company that also runs the QCon conferences.
 
 [Hackernews](https://news.ycombinator.com)
 
